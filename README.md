@@ -1,2 +1,2 @@
 # NumSort
-Sorting an array of numbers using various methods.
+My first attempt at implementing sorting algorithms (selection sort, bubble sort, and quick sort).
